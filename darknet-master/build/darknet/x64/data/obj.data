@@ -1,6 +1,0 @@
-classes= 1
-train  = data/voc_xie/train.txt
-valid  = data/voc_xie/test.txt
-names = data/obj.names
-backup = backup/
-

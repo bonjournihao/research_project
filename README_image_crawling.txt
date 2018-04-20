@@ -2,6 +2,7 @@
 -Use french_list.txt newzealand_list.txt us_list_fewer.txt(presses with #issues>4000) to download the images. Arranged by each press (2 lines per paper). Download into folder: download_papers
 -Need to change the directories
 -Need chromedriver and jsoup modules
+-ran image_shrink.m to shrink the images
 
 Downloaded newspapers so far:
 
